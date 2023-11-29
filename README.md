@@ -11,9 +11,11 @@ Atualmente sou um programador front end aprendendo e criando projetos com:
 
 E Iniciando aprendizado em: 
 
-  • <img width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  • <img width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
-  • <img width="75" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  • <img hight="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
   [![TopLenPedro](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCastello)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  • https://abrir.link/4js4E 
 
