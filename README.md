@@ -1,7 +1,7 @@
 ### Olá 👋
 
 Eu sou o Pedro Castello, Tenho 19 anos e procuro cada vez mais um alto repertório de conhecimento em programação para 
-ser prestativo na minha função.:heavy_check_mark:
+ser prestativo na minha função.
 
 Atualmente sou um programador front end aprendendo e criando projetos com:
 
@@ -9,9 +9,9 @@ Atualmente sou um programador front end aprendendo e criando projetos com:
   
   • <img width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-E Iniciando aprendizado em: 
-
   • <img width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+E Iniciando aprendizado em: 
   
   • <img hight="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
