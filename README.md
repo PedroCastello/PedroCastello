@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cbdr/)
 
  Sou apaixonado por desenvolver experiências digitais. Ao longo da minha
-trajetória, já concebi e implementei uma variedade de projetos em
+trajetória, já concebi e implementei uma variedade de projetos em Java,
 Node.js, React, Angular, HTML, CSS, JavaScript, TypeScript, Docker e
 Bancos de Dados(SQL e NoSQL) sempre buscando aprimorar minhas
 habilidades. Além de ser proficiente em ferramentas essenciais como,
